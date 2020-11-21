@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T12:33:48.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="TpvkaecHuq8zRMfZtTdW" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T02:46:02.700Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="GDpPRzLLNvtjNqpHbJyj" version="13.10.0" type="github">
   <diagram id="-JLJXYH_cxPeNO9l0M1b" name="Page-1">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,7 +270,12 @@
           <mxGeometry x="265" y="850" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JwTB5w9B-IsFKlkGzduZ-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JwTB5w9B-IsFKlkGzduZ-83" target="JwTB5w9B-IsFKlkGzduZ-79">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="1000" />
+              <mxPoint x="190" y="803" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JwTB5w9B-IsFKlkGzduZ-83" value="插入新m-&amp;gt;s和s-&amp;gt;m" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="980" width="120" height="40" as="geometry" />
@@ -309,6 +314,9 @@
         </mxCell>
         <mxCell id="JwTB5w9B-IsFKlkGzduZ-109" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="415" y="778" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTB5w9B-IsFKlkGzduZ-112" value="释放锁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1130" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
