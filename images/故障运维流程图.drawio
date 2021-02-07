@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T03:18:01.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" version="13.10.2" etag="gKE7nYtuDVxRjujt8AGq" type="github"><diagram id="iq3wdRFlhC0IszgRCCZE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-07T03:44:25.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="pSk5mLsFP557LexvD6zl" version="13.10.2" type="github">
+  <diagram id="iq3wdRFlhC0IszgRCCZE" name="Page-1">
+    <mxGraphModel dx="460" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-1" target="bkvk2IuBh5lJdwPfzLdE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-2" target="bkvk2IuBh5lJdwPfzLdE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-2" value="新机器前置检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-3" target="bkvk2IuBh5lJdwPfzLdE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-3" target="bkvk2IuBh5lJdwPfzLdE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-3" value="是否有redkv&lt;br&gt;相关文件或目录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-4" target="bkvk2IuBh5lJdwPfzLdE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-4" value="执行创建流程，到meet节点步骤停止" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-5" target="bkvk2IuBh5lJdwPfzLdE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-5" value="执行meet命令，加入新节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-6" target="bkvk2IuBh5lJdwPfzLdE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-6" value="检查节点是否加入成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-7" target="bkvk2IuBh5lJdwPfzLdE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-7" value="执行setslot命令，为新节点设置slot信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-9" target="bkvk2IuBh5lJdwPfzLdE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-9" target="bkvk2IuBh5lJdwPfzLdE-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-9" value="检查slot信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="650" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-10" target="bkvk2IuBh5lJdwPfzLdE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-10" value="执行foreget命令，剔除旧节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-11" target="bkvk2IuBh5lJdwPfzLdE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bkvk2IuBh5lJdwPfzLdE-11" target="bkvk2IuBh5lJdwPfzLdE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-11" value="检查旧节点&lt;br&gt;是否剔除成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="850" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-15" value="出现错误，终止流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="175" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-24" value="出现错误，终止流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="665" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-26" value="出现错误，终止流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="865" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bkvk2IuBh5lJdwPfzLdE-28" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="950" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
